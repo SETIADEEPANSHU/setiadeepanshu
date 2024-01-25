@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=setiadeepanshu" alt="setiadeepanshu" /></a> </p>
 
-- 🔭 I’m currently working on **Semantic Search, Question-Answering**
+- 🔭 I’m currently working on **Generative AI, Semantic Search, Question-Answering/Knowledge Graph System**
 
 - 👯 I’m looking to collaborate on **Machine Learning, Computer Vision and Natural Language Processing projects**
 
